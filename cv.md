@@ -42,9 +42,11 @@ for (let i = 1; i <= 6; i++){
     * front-end developer;
 * Belarusian State University
     * economist-manager.
+
 ***
+
 ### Languages
-* English (B1) - to level up I've been studing English with private tutor since October 2022; [patorskaya-english.by/](https://patorskaya-english.by/);
+* English (B1) - to level up I've been studing English with private tutor since October 2022[patorskaya-english.by/](https://patorskaya-english.by/);
 * Belorussian (native);
 * Russian (C2);
 * Polish - Basic;

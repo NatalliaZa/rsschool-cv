@@ -1,13 +1,20 @@
 # Natallia Zaleskaya
-***
 ##### Junior Frontend Developer
 ***
 ### Contact information
 **Adress:** Minsk, Belarus
+
+
 **Phone:** +375 29 326 09 99
+
+
 **E-mail:** 1206natashane@gmail.com
-**LinkedIn:** [in/natallia-zeleskaya/][linkedin]
-**Github:** [NatalliaZa][github]
+
+
+**LinkedIn:** [in/natallia-zeleskaya/](https://www.linkedin.com/in/natallia-zeleskaya/)
+
+
+**Github:** [NatalliaZa](https://github.com/NatalliaZa/)
 ***
 ### Summary
 Having work experience with foreign partners (I worked in tourism for many years). I'm good  at math because I worked as a leading economist for 2 years (from 2020 to 2022) . My goal is to become a significant part of a team of IT professionals.
@@ -33,9 +40,17 @@ for (let i = 1; i <= 6; i++){
 ***
 ### My projects
 [Users (Angular)](https://github.com/NatalliaZa/Users-app-Angular)
+
+
 [Current weather, API (Angular)](https://github.com/NatalliaZa/Weather-app-Angular)
+
+
 [Сoordinates (JS)](https://github.com/NatalliaZa/coordinates-js)
+
+
 [Analog Watch (HTML, CSS, JS)](https://github.com/NatalliaZa/Analog-Watch-HTML-CSS-JS)
+
+
 [PSD-layout (HTML, CSS)](https://github.com/NatalliaZa/PSD-layout-Ali-Sayed)
 ***
 ### Education
@@ -49,6 +64,3 @@ for (let i = 1; i <= 6; i++){
 * Belorussian (native);
 * Russian (C2);
 * Polish - Basic;
-[linkedin]: <https://www.linkedin.com/in/natallia-zeleskaya/>
-[github]: <https://github.com/NatalliaZa/>
-
